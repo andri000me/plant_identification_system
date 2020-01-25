@@ -2,7 +2,7 @@
 Web Sistem Pakar Menggunakan Machine Learning
 
 Step I
-[]Login Google Cloud Dan Pilih Opsi Google Vision dan Auto ML API 
+[]Login Google Cloud Dan Pilih Opsi Google Vision dan Auto ML API<br>
 []Setelah itu masuk google bucket dan upload semua foto dengan nama folder tanaman masing-masing
 []Selanjutnya anda akan disuruh melabel semua foto tersebut dengan format .svg
 []Atau bisa lebih sjelas tonton video https://youtu.be/3342PeX1aNY 
